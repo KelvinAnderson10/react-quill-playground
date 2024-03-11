@@ -51,7 +51,7 @@ const Sidebar = () => {
         ],
         imageResize: {
             parchment: Quill.import('parchment'),
-            modules: ['Resize', 'DisplaySize']
+            modules: ['Resize']
         }
     }
 
